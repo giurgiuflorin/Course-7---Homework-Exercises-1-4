@@ -54,21 +54,5 @@ public class Main {
         Student alin = new Student("Alin", 8);
         Student ciprian = new Student("Ciprian", 10);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
